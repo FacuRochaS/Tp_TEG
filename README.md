@@ -1,2 +1,3 @@
 # Tp_TEG
-Para ir subiendo las tareas
+repositorio para empezar el tp
+
